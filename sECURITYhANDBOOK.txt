@@ -1,0 +1,238 @@
+AUTHOR: Ezra Fast 
+
+DESCRIPTION:
+	- This is a continuously updated list of forums and tools relevant to security professionals. They are listed in no particular order and keyword searching is encouraged.
+	- Listed herein are samples of malware including RATs, Rootkits, Bootkits, Stealers, Wipers, and indexes containing even more kinds of malicious code. 
+
+FORUMS:
+
+https://www.nulled.to/index.php
+https://cracked.io/
+https://hackforums.net/
+https://www.rf-cheats.ru/forum/ (requires translation)
+https://breachforums.is/
+https://www.blackhatworld.com/forums/black-hat-seo-tools.9/
+https://raidforum.co/
+
+FINDING TARGETS:
+
+https://www.shodan.io/						--> Search Engine For Internet Connected Devices
+https://dorksearch.com/						--> Google Dorking; Find Internet Resources That Fit Specific Criteria
+https://www.zoomeye.org/					--> Search Engine For Internet Connected Devices; Similar To Shodan; Chinese Operated
+https://en.fofa.info/						--> Search Engine For Internet Connected Devices; Similar To Shodan; Chinese Operated
+https://leakix.net/						--> Search Engine For Internet Connected Devices; Similar To Shodan
+https://fullhunt.io/						--> Identifying Internet Facing Assets And Their Vulnerabilities; Similar To Shodan
+https://www.onyphe.io/						--> Finding Internet Connected Assets And Their Vulnerabilities; Similar To Shodan
+https://www.abuseipdb.com/					--> Verifying IP Address Reputation
+https://urlscan.io/						--> Scan URLs And View Suspicious URLs
+https://netlas.io/						--> Search Engine For Internet Connected Devices
+https://viz.greynoise.io/					--> Index Of Internet Connected Devices
+
+FINDING EXPLOITS:
+
+https://vulners.com/						--> Large Database Of Vulnerabilities And Exploits
+https://www.exploit-db.com/google-hacking-database		--> Google Hacking Database (GHDB)
+https://www.exploit-db.com/ (searchsploit at the CLI)		--> Large Collection Of Exploits
+https://gitlab.com/exploit-database/exploitdb			--> Exploit-db From The CLI
+https://packetstormsecurity.com/				--> Daily Updated Security News, Exploits, And Related Files
+https://www.rapid7.com/db/					--> Comprehensive Vulnerability And Exploit Database
+
+UNINDEXED RESOURCES:
+
+https://sectools.org/						--> Index of Security Tools
+https://vxug.fakedoma.in/samples.html				--> Live Malware Sample Download Over Torrent
+https://github.com/Gi7w0rm/MalwareConfigLists/			--> Very Comprehensive Live Malware Repo
+https://github.com/timb-machine/linux-malware			--> Linux Malware Index
+https://docs.google.com/spreadsheets/d/1b4mUxa6cDQuTV2BPC6aA-GR4zGZi0ooPYtBe4IgPsSc/edit#gid=0			--> Index Of C2 Frameworks
+https://nostarch.com/						--> OSS For Information Security Books
+https://github.com/fr0gger/Awesome-GPT-Agents			--> Index Of Artifical Intelligence Tools With Direct Security Applications
+https://hackertarget.com/ip-tools/				--> Index Of Network Based Tools
+https://attack.mitre.org/					--> Comprehensive Attack Framework; TTPs Of Most Major Threats
+https://github.com/dana-at-cp/backdoor-apk			--> Backdoor Generation
+https://github.com/screetsec/TheFatRat				--> Backdoor Generation
+https://github.com/screetsec					--> Security Tool Repo
+https://www.cvedetails.com/					--> Searchable Database Of Vulnerabilities By Severity, Vendor, Category, etc.
+https://github.com/trustedsec/social-engineer-toolkit		--> Invaluable Social Engineering/Payload Generation/Attack Framework Tool
+https://github.com/lanmaster53/recon-ng				--> CLI Reconnaisance Framework; Populate Tables Of Organization Information By Running Modules
+https://github.com/SySS-Research/Seth				--> Downgrade MitM Attack On RDP Connections To Obtain Cleartext Credentials (Particularly Effective On Stationary Pi)
+https://github.com/lunde/RATs/tree/master			--> Index Of Most Major RATs
+https://www.maltego.com/					--> Professional Reconnaisance/Intelligence Tool
+https://www.wireshark.org/					--> Live Packet Capture; Deep Packet Inspection; Packet Capture Filtering
+https://github.com/sullo/nikto					--> Web Application Scanning Tool
+https://github.com/sqlmapproject/sqlmap				--> Enumerate And Exploit SQL Injection Vulnerabilities
+https://portswigger.net/burp					--> Web Application Penetration Testing Framework
+https://github.com/openwall/john				--> Password Cracking
+https://github.com/hashcat/hashcat				--> Hash Cracking
+https://www.kali.org/tools/rainbowcrack/			--> Hash Cracking
+https://github.com/aircrack-ng/aircrack-ng			--> Wireless Cracking/WLAN Penetration Testing
+https://www.kali.org/tools/hydra/				--> Parallelized Password Cracking
+https://www.kali.org/tools/kismet/				--> Complete Wireless Security Framework
+https://parrotsec.org/docs/tools/anonsurf/			--> Invaluable Anonymization Wrapper; This Alone Justifies Parrot's UI
+https://github.com/Und3rf10w/kali-anonsurf			--> AnonSurf Implementation For Kali
+https://www.vx-underground.org/					--> Foremost Malware Sample/Technique, And Security Research Website
+https://github.com/haad/proxychains				--> Anonymize Traffic Via Tor Or Other Proxy Servers; Process Specific; Very Useful
+https://github.com/rofl0r/proxychains-ng			--> New Generation Implementation Of Proxychains; More Arduous Configuration
+https://github.com/vxunderground/MalwareSourceCode		--> Malware Repository Connected To VX-Underground
+https://www.tenable.com/products/nessus				--> Enterprise Level Vulnerability Scanner
+https://stationx-public-download.s3.us-west-2.amazonaws.com/Metasploit-cheat-sheet.pdf		--> MSFConsole Cheat Sheet
+https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom			--> Payload Generation
+https://github.com/trufflesecurity/trufflehog			--> Secret Discovery
+https://gitleaks.io/						--> Secret Discovery
+https://www.pingcastle.com/					--> Active Directory Vulnerability Assessment
+https://github.com/sense-of-security/ADRecon			--> Active Directory Vulnerability Assessment
+https://github.com/Ettercap/ettercap				--> MitM
+https://github.com/beefproject/beef				--> Browser Exploitation
+https://github.com/ytisf/theZoo					--> Live Malware
+https://github.com/samratashok/nishang				--> Exploiting Powershell on Compromised Machine
+https://github.com/offsecginger/koadic				--> Windows Rootkit / Post-Exploitation
+https://www.kali.org/tools/powershell-empire/			--> Post-Exploitation Framework
+https://github.com/ParrotSec/mimikatz				--> Windows Password Recovery
+https://github.com/t3l3machus/Villain				--> C2 Framework
+https://www.kali.org/tools/theharvester/			--> General Purpose Reconnaisance
+https://github.com/sherlock-project/sherlock			--> Enumerating Social Media Profiles
+https://github.com/elceef/dnstwist				--> Detect Typosquatting and Generate Phishing Domains
+https://github.com/iagox86/dnscat2				--> DNS Based Command and Control Framework (setup can be advanced)
+https://www.spamhaus.org/					--> Internet Intelligence
+https://github.com/t3l3machus/hoaxshell				--> Reverse TCP Payload Generation
+https://map.malfrats.industries/				--> All in 1 OSINT Tool
+https://inteltechniques.com/					--> OSINT Tool Aggregation
+https://mirror2.evolution-host.com/textfiles/internet/		--> Internet Text File Archive
+https://archive.org/web/					--> Internet Archive
+https://www.gnupg.org/						--> Full Encryption and Decryption Suite
+https://linux.die.net/man/1/rsync				--> Pushing/Pulling Entire Directories Remotely over SSH (SCP for single files)
+https://github.com/topics/emagnet				--> Identifying Leaks and Brute Forcing With Those Credentials
+https://github.com/ReddyyZ/astsu				--> Alternative Network Scanner
+https://www.emailondeck.com/					--> Temporary Email For Account Signup
+https://attackerkb.com/						--> Tracking Live Exploitation
+https://freeaccount.biz/					--> Communal Logins For Most Sites
+https://bugs.chromium.org/					--> Chromium Bug Tracking
+https://www.openvas.org/					--> Vulnerability Assessment
+https://www.httrack.com/					--> Copying Websites Offline For Phishing
+https://github.com/exploitx3/FUZZBUNCH/tree/master/exploits	--> NSA Exploit Archive
+https://github.com/x0rz/EQGRP_Lost_in_Translation		--> LOST IN TRANSLATION (NSA)
+https://www.kali.org/tools/dirsearch/				--> Brute Forcing Web Application Directories
+https://grayhatwarfare.com/					--> Indexing Public S3 Buckets
+https://protonvpn.com/blog/linux-vpn-cli-beta/			--> CLI VPN, Does Not Support Port Scanning
+https://www.honeyd.org/						--> Simulating Virtual Hosts on LAN (HoneyPotting)
+https://nmap.org/						--> Host Discovery And Port Scanning
+https://seclists.org/						--> Security Information Lists
+https://github.com/danielmiessler/SecLists			--> Penetration Testing Wordlist Repo
+https://ghidra-sre.org/						--> Reverse Engineering
+https://github.com/Mebus/cupp					--> Powerful Wordlist Generation
+https://www.kali.org/tools/crunch/				--> Wordlist Generation
+https://www.kali.org/tools/dbd/					--> NetCat Identical Daemon With Encryption Support
+https://www.kali.org/tools/crowbar/				--> Brute Force For SSH, RDP, etc.
+https://intelx.io/						--> Internet Intelligence Search Engine
+https://haveibeenpwned.com					--> Verifying If Accounts Have Been Leaked
+https://www.dehashed.com					--> Credential Leak Monitoring
+https://emailrep.io/						--> Verify The Reputation Of An Email Address
+https://bgp.he.net/						--> BGP Toolkit
+https://github.com/solkaz/endlesssh				--> Blue Team: SSH Tarpit Honeypot
+https://pypi.org/project/selenium/				--> Automating Browsers Programmatically
+https://yandex.ru/images/					--> Reliable Reverse Image Search
+https://proxmark.com/proxmark-3-hardware/icopy-x		--> Ultimate RFID Testing Tool
+https://www.ecryptfs.org/					--> Enterprise Level Linux Disk Encryption
+https://github.com/DrizzleRisk/NTPDoser				--> NTP Amplification Tool
+https://www.shemes.com/index.php?p=download			--> UseNet Client
+https://github.com/hzqst/FuckCertVerifyTimeValidity		--> Sign Binaries With Outdated Signatures
+https://github.com/yinm0591/HookSigntool			--> Sign Binaries With Outdated Signatures
+https://github.com/ThisIsSecurity				--> Malware Analysis Tool Repo
+https://hunter.io/						--> Identifying Public Email Addresses And Organization Email Structure
+https://phonebook.cz/						--> Enumerating Public Contact Addresses For A Given Domain
+https://github.com/m8sec/CrossLinked				--> Enumerating LinkedIn Accounts/Personnel Of The Target Organization
+https://getgophish.com/						--> Phishing Framework
+https://www.brevo.com/						--> Mass Email Campaigns
+https://github.com/htr-tech/zphisher				--> Comprehensive Phishing Framework
+https://gist.github.com/mgeeky/9dee0ac86c65cdd9cb5a2f64cef51991	--> Macro Based Backdoor Techniques (mgeeky also has other code examples) (Use URLDownloadToFile and WinHttp.WinHttpRequest)
+https://github.com/trustedsec					--> Offensive Security Tools
+https://github.com/Octoberfest7/TeamsPhisher			--> Mass Phishing Teams Users Based on Domain
+https://github.com/ldpreload/BlackLotus				--> Windows 10+ Bootkit With Botnet Support
+https://www.capstone-engine.org/				--> Disassembly Framework
+https://pypi.org/project/pwntools/				--> Exploit Development In Python
+https://rada.re/n/						--> Reversing Toolkit
+http://www.mutt.org/						--> Secure Email Client
+https://github.com/robertdavidgraham/masscan			--> Most Powerful Port Scanner; Use At The Internet Scale
+https://www.kali.org/tools/unicornscan/				--> Alternative, Powerful Port Scanner
+https://github.com/zmap/zmap					--> Internet Mapper; This Port Scanner Is Extremely Powerful
+https://mullvad.net/en						--> Trustworthy VPN
+https://github.com/h3xduck					--> Linux eBPF Rootkit, Stager, And Other Tools
+https://github.com/houseofxyz/threat-INTel			--> Sophisticated Threat Actor Activity, By Year
+https://scapy.net/						--> Packet Manipulation In Python3
+https://github.com/jgamblin/Mirai-Source-Code			--> Mirai Source Code; Use To Create Linux BotNet
+https://github.com/saintly2k/katana				--> Alternative To Mirai
+https://geti2p.net/en/						--> Tor Alternative; Encrypted P2P Communication
+https://arkime.com/						--> Industrial Packet Capture And Search Tool
+https://github.com/gchq/CyberChef				--> Swiss Army Knife; Encryption, Dumping, Compression, Hashing, X.509 Parsing, etc.
+https://zeek.org/						--> Open Source Industrial Network Monitoring
+https://www.kali.org/tools/dscan/				--> NMap Wrapper
+https://github.com/DinoTools/dionaea				--> Windows Apparent HoneyPot Suitable For Industrial Applications
+https://lavabit.com/						--> Encrypted, Trustworthy WebMail
+https://github.com/topics/dkom					--> DKOM Examples For Windows And Linux Rootkits
+https://www.kali.org/tools/sliver/				--> C2 Framework And Payload Generation With X.509 Certificates Per Binary
+https://weibell.github.io/reverse-shell-generator/		--> Reverse Shell Generator
+https://www.activecountermeasures.com/free-tools/adhd/		--> Defensive/Blue Team Oriented Linux Distribution
+https://www.parrotsec.org/					--> Offensive Security Distribution
+https://cemaxecuter.com/					--> RF Focused Distribution
+http://gpredict.oz9aec.net/					--> Monitoring Satellites
+https://www.bettercap.org/					--> Wireless (Bluetooth, WiFi, MouseJacking, etc.) Reconnaisance and Attack Framework
+https://github.com/cobbr/SharpGen				--> Cross Compiling .NET Framework Console Applications And Libraries
+https://github.com/cobbr/SharpSploit				--> .NET Post Exploitation Library
+https://www.kali.org/tools/covenant-kbx/			--> .NET C2 Framework
+https://www.kali.org/tools/poshc2/				--> C2 Framework With C#, C++, PowerShell, And Python3 Payload Generation; Regularly Updated To Bypass AV; Multi-OS Support
+https://github.com/Ogglas/Orignal-Slowloris-HTTP-DoS		--> HTTP DoS Tool (slowloris)
+https://bugcrowd.com/programs					--> CrowdSourced Cyber Security And Bug Bounties
+https://blog.erratasec.com/					--> Information Security Blog
+https://github.com/byt3bl33d3r/DeathStar			--> Gaining Domain Rights In An Active Directory Environment In Conjunction With Empire
+https://github.com/byt3bl33d3r/CrackMapExec			--> Post-Exploitation Security Assessment Of Large Scale Active Directory Networks 
+https://www.crackmapexec.wiki/					--> CrackMapExec Documentation
+https://github.com/SafeBreach-Labs/DoubleDrive			--> Using (OneDrive) Cloud Drive Services To Encrypt Large Files During Ransomware Deployments
+https://immunityinc.com/products/canvas/			--> Enterprise Level Automated Exploitation Framework
+https://www.kali.org/tools/armitage/				--> GUI Wrapper For The Metasploit Framework
+https://github.com/petikvx/LockBit-Black-Builder		--> LockBit Ransomware Builder (Exercise Appropriate Caution)
+https://github.com/petikvx/MSIL-Ransom				--> MSIL Ransomware Source
+https://github.com/petikvx?tab=repositories			--> Rich Offensive Repository; Malicious, Not Offensive Security
+https://github.com/defuse/flush-reload-attacks			--> Flush + Reload Side Channel Attack
+https://github.com/lgandx/Responder				--> Name Resolution Poisoning And Rogue Authentication Server Setup
+https://github.com/iamcryptoki/snowden-archive			--> Comprehensive Repository Documenting The Extent Of Digital Surveillance
+https://grid.glendon.yorku.ca/exhibits/show/welcome-to-the-snowden-digital		--> Complete Snowden Digital Archive; Digital Surveillance Is Critical To Understand For Security Professionals
+https://github.com/Cyber-Anonymous/Dark-Phish			--> Sophisticate Phishing Campaigns; Designed For Use In Kali
+https://github.com/GerbenJavado/LinkFinder			--> Scraping Links In Javascript
+https://github.com/m4ll0k/SecretFinder				--> Scraping Secrets In Javascript
+https://www.kali.org/tools/hping3/				--> Network Testing
+https://github.com/NewEraCracker/LOIC				--> Low Orbit Ion Cannon; Network Stress Testing
+https://github.com/CYB3RMX/WireBirb				--> Further Abstracting The Scapy Framework For Rapid Tool Development
+https://github.com/zxo2004/DarkComet-RAT-5.3.1			--> DarkComent RAT
+https://github.com/codingplanets/ZBOT-Botnet			--> ZBot Botnet
+https://github.com/Visgean/Zeus					--> Zeus Trojan
+https://github.com/malwares/Stealer/tree/master			--> Predatory Pain Information Stealer
+https://github.com/remote22					--> HTTP Unbearable Load King DoS Tool
+https://www.ired.team/offensive-security/code-injection-process-injection			--> Process Injection Technique Index
+https://github.com/riverloopsec/killerbee			--> Sniffing Local Network Traffic Via Re-Flashed USB
+https://ssltools.com/						--> Gather Information On Websites
+https://viewdns.info/						--> Gather All DNS Related Information
+https://torchsearch.wordpress.com/				--> Common Tor Search Engine; Unfiltered; There Are Plenty Of Alternatives Not Listed Herein For Redundancy Purposes
+https://github.com/juanfont/headscale				--> Open Source Secure Mesh Networking; Covertly Connect Compromised Machines To Controller(s)
+https://www.kali.org/tools/legion/				--> Open Sourced Penetration Testing Framework For Discovery, Enumeration, And Exploitation
+https://www.kali.org/tools/havoc/				--> Post Exploitation Command And Control
+https://www.kali.org/tools/portspoof/				--> Return SYN+ACK For All 65535 Ports To Obfuscate Attack Surface
+https://www.kali.org/tools/reconspider/				--> OSINT Framework
+https://github.com/tanc7/hacking-books/tree/master		--> Hacking Book Repository
+https://github.com/Veil-Framework/Veil-Evasion			--> Generating MSF Payloads That Can Bypass AV
+https://www.kali.org/tools/hyperion/				--> Encrypt An Input File That Will Decrypt Upon Execution (Hyperion)
+https://explore.whatismybrowser.com/useragents/explore/		--> Change Browser User Agent To Avoid Fingerprinting
+https://whatmyuseragent.com/					--> Verify Metadata And Fingerprint When Web Browsing
+https://github.com/jwx0539/hackingLibrary			--> Hacking Book Repository
+https://www.kali.org/tools/shellter/				--> Evade Anti Virus For 32-bit PE Files
+https://securitytrails.com/					--> DNS Records For Any Domain
+https://pulsedive.com/						--> Threat Intelligence Platform
+https://polyswarm.io/						--> Malware Intelligence; Similar To VirusTotal
+https://dnsdumpster.com/					--> DNS Related Intelligence (TXT Records, MX Records, A Records, etc.)
+https://otx.alienvault.com/					--> Enterprise Threat Intelligence Exchange
+https://grep.app/						--> Search Git Repositories By Regular Expression
+https://crt.sh/							--> Certificates And PKI Data For Domain, Organization, etc.
+https://wigle.net/						--> Wireless Geographic Logging Engine (WiGLE); Collection Of Information About Global Wireless Technology
+https://publicwww.com/						--> Search The Source Code Of Open Software Based On Keyword Or Regular Expression
+https://intelx.io/						--> Leak Data From Various Sources; Searchable By Domain, URL, Email, CIDR, etc.
+https://searchcode.com/						--> Keyword Search The Source Of Open Software Projects
+https://github.com/doyler/SecurityTools				--> Custom Security Tools From The Industry
+
