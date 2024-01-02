@@ -235,4 +235,5 @@ https://publicwww.com/						--> Search The Source Code Of Open Software Based On
 https://intelx.io/						--> Leak Data From Various Sources; Searchable By Domain, URL, Email, CIDR, etc.
 https://searchcode.com/						--> Keyword Search The Source Of Open Software Projects
 https://github.com/doyler/SecurityTools				--> Custom Security Tools From The Industry
+https://pastebin.com/						--> Anonymous Plain Text Uploading Over TLS; API Is Available
 
