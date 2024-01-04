@@ -236,4 +236,6 @@ https://intelx.io/						--> Leak Data From Various Sources; Searchable By Domain
 https://searchcode.com/						--> Keyword Search The Source Of Open Software Projects
 https://github.com/doyler/SecurityTools				--> Custom Security Tools From The Industry
 https://pastebin.com/						--> Anonymous Plain Text Uploading Over TLS; API Is Available
+https://linux.die.net/man/1/tor-resolve				--> Name Resolution Via The Tor Network
+https://gitlab.torproject.org/tpo/core/torsocks/		--> Wrapping Applications In TOR; All Traffic, Including DNS, Will Either Be Privatized Or Dropped
 
