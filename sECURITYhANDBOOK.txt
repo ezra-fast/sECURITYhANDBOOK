@@ -238,4 +238,6 @@ https://github.com/doyler/SecurityTools				--> Custom Security Tools From The In
 https://pastebin.com/						--> Anonymous Plain Text Uploading Over TLS; API Is Available
 https://linux.die.net/man/1/tor-resolve				--> Name Resolution Via The Tor Network
 https://gitlab.torproject.org/tpo/core/torsocks/		--> Wrapping Applications In TOR; All Traffic, Including DNS, Will Either Be Privatized Or Dropped
+https://noscript.net/						--> OpSec Tool For Browser Based Activity
+
 
