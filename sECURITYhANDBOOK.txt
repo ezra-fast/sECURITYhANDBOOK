@@ -237,7 +237,10 @@ https://searchcode.com/						--> Keyword Search The Source Of Open Software Proj
 https://github.com/doyler/SecurityTools				--> Custom Security Tools From The Industry
 https://pastebin.com/						--> Anonymous Plain Text Uploading Over TLS; API Is Available
 https://linux.die.net/man/1/tor-resolve				--> Name Resolution Via The Tor Network
-https://gitlab.torproject.org/tpo/core/torsocks/		--> Wrapping Applications In TOR; All Traffic, Including DNS, Will Either Be Privatized Or Dropped
+https://gitlab.torproject.org/tpo/core/torsocks/		--> Wrapping Applications In TOR; All Traffic, Including DNS, Will Either Be Privatized Or Dropped; Suitable For Operations
 https://noscript.net/						--> OpSec Tool For Browser Based Activity
+https://eljefe.immunityinc.com/					--> Process Monitoring Solution; Detect Anomalous Process Creations And Other IOCs On The Local System
+https://github.com/volatilityfoundation/volatility		--> Memory Forensics In Python
+https://www.exterro.com/ftk-imager				--> GUI Tool For All Manner Of Forensic Imaging And Other Forensic Purposes (Proving Integrity, Read-Only Mounting, etc.)
 
 
