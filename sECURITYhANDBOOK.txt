@@ -244,5 +244,5 @@ https://github.com/volatilityfoundation/volatility		--> Memory Forensics In Pyth
 https://www.exterro.com/ftk-imager				--> GUI Tool For All Manner Of Forensic Imaging And Other Forensic Purposes (Proving Integrity, Read-Only Mounting, etc.)
 https://github.com/swisskyrepo/PayloadsAllTheThings		--> List Of Useful Payloads And Bypasses For Web Security
 https://www.sans.org/tools/sift-workstation/			--> Digital Forensics Oriented Ubuntu Image
-
+https://github.com/mandiant/flare-vm				--> Windows Based Malware Analysis And Reverse Engineering Framework 
 
