@@ -245,4 +245,8 @@ https://www.exterro.com/ftk-imager				--> GUI Tool For All Manner Of Forensic Im
 https://github.com/swisskyrepo/PayloadsAllTheThings		--> List Of Useful Payloads And Bypasses For Web Security
 https://www.sans.org/tools/sift-workstation/			--> Digital Forensics Oriented Ubuntu Image
 https://github.com/mandiant/flare-vm				--> Windows Based Malware Analysis And Reverse Engineering Framework 
+https://www.openssl.org/					--> Commercial Grade Cryptography To Secure Digital Communications
+https://www.stunnel.org/					--> Proxy Service Providing TLS Encryption To Existing Clients And Servers; Cryptography Via OpenSSL
+https://github.com/juanfont/headscale				--> Open Source Implementation Of TailScale; A Peer-To-Peer (Mesh), WireGuard Based VPN That Handles NAT Traversal
+
 
