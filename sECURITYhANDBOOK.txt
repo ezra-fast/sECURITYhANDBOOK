@@ -248,5 +248,7 @@ https://github.com/mandiant/flare-vm				--> Windows Based Malware Analysis And R
 https://www.openssl.org/					--> Commercial Grade Cryptography To Secure Digital Communications
 https://www.stunnel.org/					--> Proxy Service Providing TLS Encryption To Existing Clients And Servers; Cryptography Via OpenSSL
 https://github.com/juanfont/headscale				--> Open Source Implementation Of TailScale; A Peer-To-Peer (Mesh), WireGuard Based VPN That Handles NAT Traversal
+https://www.winitor.com/					--> (PEStudio) Malware Initial Assessment And Artifact Discovery
+https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Suite For Technical System Analysis, Management, And Troubleshooting
 
 
