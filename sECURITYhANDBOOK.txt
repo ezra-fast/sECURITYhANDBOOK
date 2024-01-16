@@ -48,6 +48,7 @@ https://nostarch.com/						--> OSS For Information Security Books
 https://github.com/fr0gger/Awesome-GPT-Agents			--> Index Of Artifical Intelligence Tools With Direct Security Applications
 https://hackertarget.com/ip-tools/				--> Index Of Network Based Tools
 https://attack.mitre.org/					--> Comprehensive Attack Framework; TTPs Of Most Major Threats
+https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html			--> Cyber Kill Chain; The Process Of An Attack
 https://github.com/dana-at-cp/backdoor-apk			--> Backdoor Generation
 https://github.com/screetsec/TheFatRat				--> Backdoor Generation
 https://github.com/screetsec					--> Security Tool Repo
