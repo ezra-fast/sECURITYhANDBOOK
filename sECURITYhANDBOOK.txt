@@ -251,5 +251,5 @@ https://www.stunnel.org/					--> Proxy Service Providing TLS Encryption To Exist
 https://github.com/juanfont/headscale				--> Open Source Implementation Of TailScale; A Peer-To-Peer (Mesh), WireGuard Based VPN That Handles NAT Traversal
 https://www.winitor.com/					--> (PEStudio) Malware Initial Assessment And Artifact Discovery
 https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Suite For Technical System Analysis, Management, And Troubleshooting
-
+https://www.kali.org/tools/cewl/				--> Generate Wordlist Based On Website Content
 
