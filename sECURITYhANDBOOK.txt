@@ -252,4 +252,5 @@ https://github.com/juanfont/headscale				--> Open Source Implementation Of TailS
 https://www.winitor.com/					--> (PEStudio) Malware Initial Assessment And Artifact Discovery
 https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Suite For Technical System Analysis, Management, And Troubleshooting
 https://www.kali.org/tools/cewl/				--> Generate Wordlist Based On Website Content
+https://www.kali.org/tools/regripper/				--> Open Source Forensic Analysis Of The Windows Registry
 
