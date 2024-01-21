@@ -253,4 +253,5 @@ https://www.winitor.com/					--> (PEStudio) Malware Initial Assessment And Artif
 https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Suite For Technical System Analysis, Management, And Troubleshooting
 https://www.kali.org/tools/cewl/				--> Generate Wordlist Based On Website Content
 https://www.kali.org/tools/regripper/				--> Open Source Forensic Analysis Of The Windows Registry
+https://lokinet.org/faq						--> Sybil Resistant Onion Router Similar To TOR But Smalled In Scope
 
