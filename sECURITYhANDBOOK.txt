@@ -257,4 +257,6 @@ https://lokinet.org/faq						--> Sybil Resistant Onion Router Similar To TOR But
 https://ipleak.net/						--> Check For IP Address And WebRTC Leaks (Critical Tool For Operational Security; Fits All Threat Models)
 https://dnsleaktest.com/					--> Check For IP Address Leaks
 https://librewolf.net/						--> Security And Privacy Focused Fork Of The Firefox Browser
+https://www.kali.org/tools/macchanger/				--> GNU MAC Changer; Change The MAC Address Of Each Network Interface According To Various Options
+https://www.kali.org/tools/linux-exploit-suggester/		--> Checking For Linux Privilege Escalation Vulnerabilities On The Local Linux Machine Based Largely On The Kernel Version
 
