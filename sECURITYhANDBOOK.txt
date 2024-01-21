@@ -254,4 +254,6 @@ https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Sui
 https://www.kali.org/tools/cewl/				--> Generate Wordlist Based On Website Content
 https://www.kali.org/tools/regripper/				--> Open Source Forensic Analysis Of The Windows Registry
 https://lokinet.org/faq						--> Sybil Resistant Onion Router Similar To TOR But Smalled In Scope
+https://ipleak.net/						--> Check For IP Address And WebRTC Leaks (Critical Tool For Operational Security; Fits All Threat Models)
+https://dnsleaktest.com/					--> Check For IP Address Leaks
 
