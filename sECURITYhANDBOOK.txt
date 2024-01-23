@@ -260,4 +260,9 @@ https://librewolf.net/						--> Security And Privacy Focused Fork Of The Firefox
 https://www.kali.org/tools/macchanger/				--> GNU MAC Changer; Change The MAC Address Of Each Network Interface According To Various Options
 https://www.kali.org/tools/linux-exploit-suggester/		--> Checking For Linux Privilege Escalation Vulnerabilities On The Local Linux Machine Based Largely On The Kernel Version
 https://linux.die.net/man/1/shred				--> Overwrite File(s) With Garbage Data Multiple Times To Hide Their Original Contents
+https://pentester.com/						--> Single Source For Easy Risk Analysis; One Of The Only Paid Tools Worth Listing
+https://github.com/P0cL4bs/wifipumpkin3				--> Rogue Access Point Framework; Conduct MitM, DeAuth, Captive Portal, Evil QR Code, DNS Poisoning; Invaluable Tool For Initial Access
+https://shop.hak5.org/						--> Offensive Hardware; If Physical Access Is Possible, These Implants Are Invaluable
+https://greatscottgadgets.com/hackrf/one/			--> One Of The Foremost RF Tools; Intercept, Transmit, And Inject
+
 
