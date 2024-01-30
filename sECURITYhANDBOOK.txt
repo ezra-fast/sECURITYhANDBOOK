@@ -99,6 +99,7 @@ https://map.malfrats.industries/				--> All in 1 OSINT Tool
 https://inteltechniques.com/					--> OSINT Tool Aggregation
 https://mirror2.evolution-host.com/textfiles/internet/		--> Internet Text File Archive
 https://archive.org/web/					--> Internet Archive
+https://tails.net/						--> Portable Operating System For Secure Communications; Paranoid Level OPSEC
 https://www.gnupg.org/						--> Full Encryption and Decryption Suite
 https://linux.die.net/man/1/rsync				--> Pushing/Pulling Entire Directories Remotely over SSH (SCP for single files)
 https://github.com/topics/emagnet				--> Identifying Leaks and Brute Forcing With Those Credentials
@@ -267,5 +268,6 @@ https://greatscottgadgets.com/hackrf/one/			--> One Of The Foremost RF Tools; In
 https://www.snort.org/						--> Open Source Network IDS And IPS
 https://www.clamav.net/						--> Open Source Anti Virus Solution
 https://maldevacademy.com/					--> Educational Resource For The Development Of Malware; Well Worth Whatever They Are Charging
+https://onionshare.org/						--> Sharing Files Anonymously Over The TOR Network; Decent OPSEC But All Network Assets Must Be Running TOR
 
 
