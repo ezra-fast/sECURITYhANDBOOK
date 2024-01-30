@@ -264,5 +264,7 @@ https://pentester.com/						--> Single Source For Easy Risk Analysis; One Of The
 https://github.com/P0cL4bs/wifipumpkin3				--> Rogue Access Point Framework; Conduct MitM, DeAuth, Captive Portal, Evil QR Code, DNS Poisoning; Invaluable Tool For Initial Access
 https://shop.hak5.org/						--> Offensive Hardware; If Physical Access Is Possible, These Implants Are Invaluable
 https://greatscottgadgets.com/hackrf/one/			--> One Of The Foremost RF Tools; Intercept, Transmit, And Inject
+https://www.snort.org/						--> Open Source Network IDS And IPS
+https://www.clamav.net/						--> Open Source Anti Virus Solution
 
 
