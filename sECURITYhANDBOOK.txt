@@ -266,5 +266,6 @@ https://shop.hak5.org/						--> Offensive Hardware; If Physical Access Is Possib
 https://greatscottgadgets.com/hackrf/one/			--> One Of The Foremost RF Tools; Intercept, Transmit, And Inject
 https://www.snort.org/						--> Open Source Network IDS And IPS
 https://www.clamav.net/						--> Open Source Anti Virus Solution
+https://maldevacademy.com/					--> Educational Resource For The Development Of Malware; Well Worth Whatever They Are Charging
 
 
