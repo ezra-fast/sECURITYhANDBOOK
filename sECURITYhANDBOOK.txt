@@ -270,5 +270,6 @@ https://www.clamav.net/						--> Open Source Anti Virus Solution
 https://maldevacademy.com/					--> Educational Resource For The Development Of Malware; Well Worth Whatever They Are Charging
 https://onionshare.org/						--> Sharing Files Anonymously Over The TOR Network; Decent OPSEC But All Network Assets Must Be Running TOR
 https://github.com/ShutdownRepo/shellerator			--> Generating All Manner Of Shells Quickly During An Engagement
+https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools And Techniques
 
 
