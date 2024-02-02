@@ -272,5 +272,6 @@ https://onionshare.org/						--> Sharing Files Anonymously Over The TOR Network;
 https://github.com/ShutdownRepo/shellerator			--> Generating All Manner Of Shells Quickly During An Engagement
 https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools And Techniques
 https://github.com/LionSec/xerosploit				--> MitM Framework With Support For Port Scanning, DNS Spoofing, Javascript Injection, DoS, And More
+https://www.tor2web.org/					--> Visiting TOR Hidden Services Without TOR Browser Or Local TOR Instance; Useful For Implants That Make Contact Over TOR
 
 
