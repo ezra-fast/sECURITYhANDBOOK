@@ -273,5 +273,6 @@ https://github.com/ShutdownRepo/shellerator			--> Generating All Manner Of Shell
 https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools And Techniques
 https://github.com/LionSec/xerosploit				--> MitM Framework With Support For Port Scanning, DNS Spoofing, Javascript Injection, DoS, And More
 https://www.tor2web.org/					--> Visiting TOR Hidden Services Without TOR Browser Or Local TOR Instance; Useful For Implants That Make Contact Over TOR
+https://valgrind.org/						--> Framework For Developing Dynamic Analysis Tools; Use To Detect Errors In Memory Management, Threading, And Other Implementation Level Details
 
 
