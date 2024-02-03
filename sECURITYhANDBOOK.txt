@@ -219,6 +219,7 @@ https://www.kali.org/tools/havoc/				--> Post Exploitation Command And Control
 https://www.kali.org/tools/portspoof/				--> Return SYN+ACK For All 65535 Ports To Obfuscate Attack Surface
 https://www.kali.org/tools/reconspider/				--> OSINT Framework
 https://github.com/tanc7/hacking-books/tree/master		--> Hacking Book Repository
+https://github.com/barondante/Books				--> Repository Of Security Related Books
 https://github.com/Veil-Framework/Veil-Evasion			--> Generating MSF Payloads That Can Bypass AV
 https://www.kali.org/tools/hyperion/				--> Encrypt An Input File That Will Decrypt Upon Execution (Hyperion)
 https://explore.whatismybrowser.com/useragents/explore/		--> Change Browser User Agent To Avoid Fingerprinting
