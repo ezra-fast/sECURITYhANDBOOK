@@ -213,6 +213,7 @@ https://github.com/riverloopsec/killerbee			--> Sniffing Local Network Traffic V
 https://ssltools.com/						--> Gather Information On Websites
 https://viewdns.info/						--> Gather All DNS Related Information
 https://torchsearch.wordpress.com/				--> Common Tor Search Engine; Unfiltered; There Are Plenty Of Alternatives Not Listed Herein For Redundancy Purposes
+https://thehiddenwiki.org/					--> Repository Of Popular Hidden Services That Serves As An Introduction To The Dark Web
 https://github.com/juanfont/headscale				--> Open Source Secure Mesh Networking; Covertly Connect Compromised Machines To Controller(s)
 https://www.kali.org/tools/legion/				--> Open Sourced Penetration Testing Framework For Discovery, Enumeration, And Exploitation
 https://www.kali.org/tools/havoc/				--> Post Exploitation Command And Control
