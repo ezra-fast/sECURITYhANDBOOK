@@ -276,5 +276,8 @@ https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools
 https://github.com/LionSec/xerosploit				--> MitM Framework With Support For Port Scanning, DNS Spoofing, Javascript Injection, DoS, And More
 https://www.tor2web.org/					--> Visiting TOR Hidden Services Without TOR Browser Or Local TOR Instance; Useful For Implants That Make Contact Over TOR
 https://valgrind.org/						--> Framework For Developing Dynamic Analysis Tools; Use To Detect Errors In Memory Management, Threading, And Other Implementation Level Details
+https://www.autopsy.com/					--> Open Source Digital Forensics Framework; Perhaps The Worst README.md/Documentation In The History Of Software. MacOS/Linux Installation Is A Nightmare.
+https://www.sparkfun.com/products/12942				--> Talk To Embedded Devices From Console; This Is A Universal Bus Interface Meant To Ease Communication With Chips
+https://www.farmanager.com/					--> CLI Based Windows File Manager
 
 
