@@ -279,5 +279,6 @@ https://valgrind.org/						--> Framework For Developing Dynamic Analysis Tools; 
 https://www.autopsy.com/					--> Open Source Digital Forensics Framework; Perhaps The Worst README.md/Documentation In The History Of Software. MacOS/Linux Installation Is A Nightmare.
 https://www.sparkfun.com/products/12942				--> Talk To Embedded Devices From Console; This Is A Universal Bus Interface Meant To Ease Communication With Chips
 https://www.farmanager.com/					--> CLI Based Windows File Manager
+https://www.kali.org/tools/0trace/				--> Hop Enumeration; Run This Shell Script On An Existing TCP Connection To Identify Hops That Traceroute Cannot
 
 
