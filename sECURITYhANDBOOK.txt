@@ -270,7 +270,7 @@ https://greatscottgadgets.com/hackrf/one/			--> One Of The Foremost RF Tools; In
 https://www.snort.org/						--> Open Source Network IDS And IPS
 https://www.clamav.net/						--> Open Source Anti Virus Solution
 https://maldevacademy.com/					--> Educational Resource For The Development Of Malware; Well Worth Whatever They Are Charging
-https://onionshare.org/						--> Sharing Files Anonymously Over The TOR Network; Decent OPSEC, Point Victims Towards Public SOCKS5 Proxy; httpdstp Must Be Set If Using A One-Liner!
+https://onionshare.org/						--> Sharing Files Anonymously Over The TOR Network; httpdstp Must Be Set If Using A One-Liner!
 https://github.com/ShutdownRepo/shellerator			--> Generating All Manner Of Shells Quickly During An Engagement
 https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools And Techniques
 https://github.com/LionSec/xerosploit				--> MitM Framework With Support For Port Scanning, DNS Spoofing, Javascript Injection, DoS, And More
@@ -280,5 +280,6 @@ https://www.autopsy.com/					--> Open Source Digital Forensics Framework; Perhap
 https://www.sparkfun.com/products/12942				--> Talk To Embedded Devices From Console; This Is A Universal Bus Interface Meant To Ease Communication With Chips
 https://www.farmanager.com/					--> CLI Based Windows File Manager
 https://www.kali.org/tools/0trace/				--> Hop Enumeration; Run This Shell Script On An Existing TCP Connection To Identify Hops That Traceroute Cannot
+https://github.com/IFGHou/EtherApe				--> Graphical Network Traffic Monitoring; Color Coded Live Traffic Analysis; Particularly Useful On Wireless Networks
 
 
