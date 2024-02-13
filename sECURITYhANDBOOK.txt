@@ -281,5 +281,7 @@ https://www.sparkfun.com/products/12942				--> Talk To Embedded Devices From Con
 https://www.farmanager.com/					--> CLI Based Windows File Manager
 https://www.kali.org/tools/0trace/				--> Hop Enumeration; Run This Shell Script On An Existing TCP Connection To Identify Hops That Traceroute Cannot
 https://github.com/IFGHou/EtherApe				--> Graphical Network Traffic Monitoring; Color Coded Live Traffic Analysis; Particularly Useful On Wireless Networks
+https://www.qubes-os.org/					--> Privacy/Security Focused Distro; Each Application Instance Is Contained Within A 'Qube'; This Segregates The Environment And Fights Against Infections
+https://www.whonix.org/						--> Gateway Through Which To Proxy Traffic Anonymously; Used In Conjunction With The Provided Workstation Or As A Local Proxy Instance; This Should Not Be Used As Operational Security; Often Used In Conjunction With Qubes
 
 
