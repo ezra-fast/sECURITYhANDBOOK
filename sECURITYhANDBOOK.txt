@@ -256,7 +256,7 @@ https://www.winitor.com/					--> (PEStudio) Malware Initial Assessment And Artif
 https://learn.microsoft.com/en-us/sysinternals/downloads/	--> Microsoft Tool Suite For Technical System Analysis, Management, And Troubleshooting
 https://www.kali.org/tools/cewl/				--> Generate Wordlist Based On Website Content
 https://www.kali.org/tools/regripper/				--> Open Source Forensic Analysis Of The Windows Registry
-https://lokinet.org/faq						--> Sybil Resistant Onion Router Similar To TOR But Smalled In Scope
+https://lokinet.org/faq						--> Sybil Resistant Onion Router Similar To TOR But Smaller In Scope
 https://ipleak.net/						--> Check For IP Address And WebRTC Leaks (Critical Tool For Operational Security; Fits All Threat Models)
 https://dnsleaktest.com/					--> Check For IP Address Leaks
 https://librewolf.net/						--> Security And Privacy Focused Fork Of The Firefox Browser
@@ -283,5 +283,6 @@ https://www.kali.org/tools/0trace/				--> Hop Enumeration; Run This Shell Script
 https://github.com/IFGHou/EtherApe				--> Graphical Network Traffic Monitoring; Color Coded Live Traffic Analysis; Particularly Useful On Wireless Networks
 https://www.qubes-os.org/					--> Privacy/Security Focused Distro; Each Application Instance Is Contained Within A 'Qube'; This Segregates The Environment And Fights Against Infections
 https://www.whonix.org/						--> Gateway Through Which To Proxy Traffic Anonymously; Used In Conjunction With The Provided Workstation Or As A Local Proxy Instance; This Should Not Be Used As Operational Security; Often Used In Conjunction With Qubes
+https://osintframework.com/					--> Similar To The Malfrats Map; Aggregation Of OSINT Resources To Support Deep Dives
 
 
