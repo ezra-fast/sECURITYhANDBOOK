@@ -285,4 +285,6 @@ https://www.qubes-os.org/					--> Privacy/Security Focused Distro; Each Applicat
 https://www.whonix.org/						--> Gateway Through Which To Proxy Traffic Anonymously; Used In Conjunction With The Provided Workstation Or As A Local Proxy Instance; This Should Not Be Used As Operational Security; Often Used In Conjunction With Qubes
 https://osintframework.com/					--> Similar To The Malfrats Map; Aggregation Of OSINT Resources To Support Deep Dives
 https://ngrok.com/						--> Forward Localhost To The Public Internet; Plenty Of Alternatives That Do The Same Thing; Invaluable For Remaining Relatively Anonymous During Operations
+https://github.com/EnableSecurity/wafw00f			--> Fingerprint WAF Solution(s) In Place For A Given Target
+
 
