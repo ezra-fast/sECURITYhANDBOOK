@@ -30,12 +30,30 @@ https://viz.greynoise.io/					--> Index Of Internet Connected Devices
 
 FINDING EXPLOITS:
 
+(Pentesting)
 https://vulners.com/						--> Large Database Of Vulnerabilities And Exploits
 https://www.exploit-db.com/google-hacking-database		--> Google Hacking Database (GHDB)
 https://www.exploit-db.com/ (searchsploit at the CLI)		--> Large Collection Of Exploits
 https://gitlab.com/exploit-database/exploitdb			--> Exploit-db From The CLI
 https://packetstormsecurity.com/				--> Daily Updated Security News, Exploits, And Related Files
 https://www.rapid7.com/db/					--> Comprehensive Vulnerability And Exploit Database
+
+(Hacking (Vulnerabilities That Likely Aren't Formally Documented))
+https://0day.today/						--> Find Exploits Free And Paid; Private And Public; 
+https://cxsecurity.com/exploit/					--> Anonymously Uploaded Exploits
+https://exploitalert.com/browse-exploit.html			--> Basically A Large, Frequently Updated Database Of Exploits
+http://www.routerpwn.com/Tools/					--> Large Collection Of Router/Network Equipment Oriented Exploits; This Is An Older Resource But Many Home Networking Appliances Are Never Updated
+https://www.seebug.org/vuldb/vulnerabilities			--> A Frequently Updated Collection Of Rather Sophisticated Exploits From Our Friends In The East!
+https://www.vulnerability-lab.com/				--> An Aging Collection Of (Mostly) Remotely Deployable Exploits; Not Very Well Maintained
+
+
+FINDING VULNERABILITIES:
+
+https://nvd.nist.gov/vuln/search				--> Vulnerability Database Searchable By Vendor, CVE Name, Product Name, etc.
+https://www.cve.org/						--> Search For Vulnerabilities By CVE ID
+https://cve.mitre.org/						--> Search For Vulnerabilities By Keyword
+https://cse.google.com						--> Create A More Specific Search Engine To Search Only Certain Resources For Vulnerabilities/Exploits. This Is NOT A Beginner Technique!
+https://www.zerodayinitiative.com/advisories/published/		--> Vulnerabilities Reported Before Patches Are Available
 
 UNINDEXED RESOURCES:
 
@@ -75,6 +93,7 @@ https://github.com/haad/proxychains				--> Anonymize Traffic Via Tor Or Other Pr
 https://github.com/rofl0r/proxychains-ng			--> New Generation Implementation Of Proxychains; More Arduous Configuration
 https://github.com/vxunderground/MalwareSourceCode		--> Malware Repository Connected To VX-Underground
 https://www.tenable.com/products/nessus				--> Enterprise Level Vulnerability Scanner
+https://github.com/misterch0c/malSploitBase/tree/master		--> A Repo Of Exploits That Target Known Malware/C2 Infrastructure; Good Practice For Purposing Code To Exploit Vulnerabilities In The Wild
 https://stationx-public-download.s3.us-west-2.amazonaws.com/Metasploit-cheat-sheet.pdf		--> MSFConsole Cheat Sheet
 https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/msfvenom			--> Payload Generation
 https://github.com/trufflesecurity/trufflehog			--> Secret Discovery
@@ -286,5 +305,30 @@ https://www.whonix.org/						--> Gateway Through Which To Proxy Traffic Anonymou
 https://osintframework.com/					--> Similar To The Malfrats Map; Aggregation Of OSINT Resources To Support Deep Dives
 https://ngrok.com/						--> Forward Localhost To The Public Internet; Plenty Of Alternatives That Do The Same Thing; Invaluable For Remaining Relatively Anonymous During Operations
 https://github.com/EnableSecurity/wafw00f			--> Fingerprint WAF Solution(s) In Place For A Given Target
+https://github.com/tpet/mat2					--> Strip Metadata From Files From The CLI
+https://github.com/carlospolop/PEASS-ng/tree/master/linPEAS	--> Enumerate For Privilege Escalation on *NIX Systems; Run With -a, -r, -e; Can Also Be Used To Analyze Firmware
+https://github.com/carlospolop/PEASS-ng/tree/master/winPEAS	--> Windows Flavor Of The Aformentioned Tool; Check Windows System(s) For Local Privilege Escalation Vulnerabilities
+https://www.kali.org/tools/enum4linux/				--> Enumeration Tool To Unveil Information From SMB/Samba Connected Machines; Useful For Local Reconnaissance And Enumeration
+https://github.com/wpscanteam/wpscan				--> Enumerate WordPress Plugins Used By A Web App And Their Vulnerabilities; Best Used With An API Key From WPScan.com; Good For Initial Access
+https://github.com/owerdogan/whoami-project			--> Debian/Arch Compatible Anonymity Suite; Change IP, Change MAC, Overwrite Logs, Alternate DNS, Change Clock, Change, Hostname, etc.
+https://github.com/Tib3rius/AutoRecon				--> A Single Tool To Conduct Enumeration Of Services/Versions And Gracefully Pass That Information To More Specific Enumerators Per Service; Allowed on OSCP
+https://github.com/codingo/Reconnoitre				--> Automate The Enumeration Process And The Identification Of Suitable Exploits; Meant For Use With OSCP Labs/Exam
+https://github.com/RoliSoft/ReconScan				--> Enumerate Services/Versions (Nmap And Amap) And Perform Further Vulnerability Analysis Per Service
+https://github.com/welchbj/bscan				--> Automated Service Enumeration Through The Use Of Existing Tools; Output Is Color Coded On The CLI And Provided In A Directory Structure.
+https://www.kali.org/tools/amap/				--> The Application Mapper; Identify Applications Irrespective Of Default Port Number
+https://www.kali.org/tools/whatweb/				--> Fingerprint Web Application Technologies Including CMS, Analytics Packages, Server Versions, JS Libraries, SQL Usage, etc.
+https://github.com/xmendez/wfuzz				--> Modify/Inject Any Field Of A Web Request In Order To Fuzz/Abuse Headers, Authentication, Parameters, Forms, Directories, etc.; 
+https://github.com/ffuf/ffuf					--> Fuzz GET/POST Parameters, Subdomains, And Directories
+https://www.kali.org/tools/sqlninja/				--> Exploit SQL Injection Vulnerabilities On Microsoft SQL Server; Stream Music While Exploiting SQL Injection!
+https://www.kali.org/tools/bloodhound/				--> (neo4j); Reveal Privilege Relationships In Active Directory Environments; Visualize AD Object Relationships And Their Associated Privileges/Permissions
+https://github.com/S3cur3Th1sSh1t/PowerSharpPack		--> A PowerShell Wrapper Around Every Offensive Windows Tool Under The Sun; OSS For Abusing Kerberos, AD, .NET, Escalating Privileges, Achieving Persistence, And Much More
+https://0xdeadbeef.info/#exploits				--> A Collection Of Exploits, Old And New, Maintained By A Respected Security Researcher
+https://github.com/1N3/Findsploit				--> Search Local And Online Databases For Relevant Exploits; Use In Conjunction With Copysploit And CompileSploit For The Less Technically Inclined
+https://github.com/rfunix/Pompem				--> Another Tool To Automatically Search The Most Prominent Online Resources For Relevant Exploits/Vulnerabilities
+https://addons.mozilla.org/en-CA/firefox/addon/foxyproxy-standard/		--> A Rather Versatile Proxy Management Extension For Firefox; Proxy By Tab, URL, etc.
+https://github.com/kgretzky/evilginx2				--> An HTTP Proxy That Resides Between The Victim's Browser And The Website You Are Phishing Credentials For; When Properly Used This Offers The Potential To Transparently Phish The Victim(s) And Bypass MFA
+https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f		--> A Burp Extension To Test For Authentication And Authorization Vulnerabilities Using A Session Cookie And Privileged Access
+https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot	--> An XSS Polyglot; That Is, An XSS Payload That Is Well Suited For Deployment Irrespective Of The Specific Context.
+https://github.com/blacklanternsecurity/bbot			--> An Operationally Suitable Internet Scanner Used To Flesh Out The Infrastructure Of A Target. Similar Tools Are Referenced On The GitHub
 
 
