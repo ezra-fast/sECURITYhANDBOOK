@@ -295,6 +295,7 @@ https://book.hacktricks.xyz/					--> Resource Index For Offensive Security Tools
 https://github.com/LionSec/xerosploit				--> MitM Framework With Support For Port Scanning, DNS Spoofing, Javascript Injection, DoS, And More
 https://www.tor2web.org/					--> Visiting TOR Hidden Services Without TOR Browser Or Local TOR Instance; Useful For Implants That Make Contact Over TOR
 https://valgrind.org/						--> Framework For Developing Dynamic Analysis Tools; Use To Detect Errors In Memory Management, Threading, And Other Implementation Level Details
+https://www.samba.org/samba/docs/current/man-html/smbclient.1.html	--> CLI Client For Interacting With SMB/CIFS During Engagements;
 https://www.autopsy.com/					--> Open Source Digital Forensics Framework; Perhaps The Worst README.md/Documentation In The History Of Software. MacOS/Linux Installation Is A Nightmare.
 https://www.sparkfun.com/products/12942				--> Talk To Embedded Devices From Console; This Is A Universal Bus Interface Meant To Ease Communication With Chips
 https://www.farmanager.com/					--> CLI Based Windows File Manager
@@ -321,12 +322,12 @@ https://github.com/xmendez/wfuzz				--> Modify/Inject Any Field Of A Web Request
 https://github.com/ffuf/ffuf					--> Fuzz GET/POST Parameters, Subdomains, And Directories
 https://www.kali.org/tools/sqlninja/				--> Exploit SQL Injection Vulnerabilities On Microsoft SQL Server; Stream Music While Exploiting SQL Injection!
 https://www.kali.org/tools/bloodhound/				--> (neo4j); Reveal Privilege Relationships In Active Directory Environments; Visualize AD Object Relationships And Their Associated Privileges/Permissions
-https://github.com/S3cur3Th1sSh1t/PowerSharpPack		--> A PowerShell Wrapper Around Every Offensive Windows Tool Under The Sun; OSS For Abusing Kerberos, AD, .NET, Escalating Privileges, Achieving Persistence, And Much More
+https://github.com/S3cur3Th1sSh1t/PowerSharpPack		--> A PowerShell Wrapper Around Every Offensive Windows Tool Under The Sun; OSS For Abusing Kerberos, AD, .NET, Escalating Privileges, Achieving Persistence, Etc.
 https://0xdeadbeef.info/#exploits				--> A Collection Of Exploits, Old And New, Maintained By A Respected Security Researcher
 https://github.com/1N3/Findsploit				--> Search Local And Online Databases For Relevant Exploits; Use In Conjunction With Copysploit And CompileSploit For The Less Technically Inclined
 https://github.com/rfunix/Pompem				--> Another Tool To Automatically Search The Most Prominent Online Resources For Relevant Exploits/Vulnerabilities
 https://addons.mozilla.org/en-CA/firefox/addon/foxyproxy-standard/		--> A Rather Versatile Proxy Management Extension For Firefox; Proxy By Tab, URL, etc.
-https://github.com/kgretzky/evilginx2				--> An HTTP Proxy That Resides Between The Victim's Browser And The Website You Are Phishing Credentials For; When Properly Used This Offers The Potential To Transparently Phish The Victim(s) And Bypass MFA
+https://github.com/kgretzky/evilginx2				--> An HTTP Proxy That Resides Between The Victim's Browser And The Website You Are Phishing Credentials For; 
 https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f		--> A Burp Extension To Test For Authentication And Authorization Vulnerabilities Using A Session Cookie And Privileged Access
 https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot	--> An XSS Polyglot; That Is, An XSS Payload That Is Well Suited For Deployment Irrespective Of The Specific Context.
 https://github.com/blacklanternsecurity/bbot			--> An Operationally Suitable Internet Scanner Used To Flesh Out The Infrastructure Of A Target. Similar Tools Are Referenced On The GitHub
