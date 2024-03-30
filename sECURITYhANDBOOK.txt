@@ -332,4 +332,6 @@ https://portswigger.net/bappstore/f9bbac8c4acf4aefa4d7dc92a991af2f		--> A Burp E
 https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot	--> An XSS Polyglot; That Is, An XSS Payload That Is Well Suited For Deployment Irrespective Of The Specific Context.
 https://github.com/blacklanternsecurity/bbot			--> An Operationally Suitable Internet Scanner Used To Flesh Out The Infrastructure Of A Target. Similar Tools Are Referenced On The GitHub
 https://github.com/redcanaryco/atomic-red-team			--> Test Local Infrastructure Against The TTPs Of Modern APTs
+https://github.com/ricochet-im/ricochet				--> Peer To Peer Instant Messaging; a decentralized architecture that relies on Tor hidden services;
+
 
