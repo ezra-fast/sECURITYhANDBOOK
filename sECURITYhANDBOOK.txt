@@ -333,5 +333,6 @@ https://github.com/0xsobky/HackVault/wiki/Unleashing-an-Ultimate-XSS-Polyglot	--
 https://github.com/blacklanternsecurity/bbot			--> An Operationally Suitable Internet Scanner Used To Flesh Out The Infrastructure Of A Target. Similar Tools Are Referenced On The GitHub
 https://github.com/redcanaryco/atomic-red-team			--> Test Local Infrastructure Against The TTPs Of Modern APTs
 https://github.com/ricochet-im/ricochet				--> Peer To Peer Instant Messaging; a decentralized architecture that relies on Tor hidden services;
+https://redact.dev/						--> Mass delete all past messages per account on multiple social media accounts; important for digital footprint management
 
 
