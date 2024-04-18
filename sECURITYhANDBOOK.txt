@@ -335,5 +335,6 @@ https://github.com/redcanaryco/atomic-red-team			--> Test Local Infrastructure A
 https://github.com/ricochet-im/ricochet				--> Peer To Peer Instant Messaging; a decentralized architecture that relies on Tor hidden services;
 https://redact.dev/						--> Mass delete all past messages per account on multiple social media accounts; important for digital footprint management
 https://github.com/tokyoneon/Chimera				--> Obfuscate malicious powershell scripts to evade detection
-
+https://curl.se/windows/					--> Download link for cURL and OpenSSL libraries for Windows; Invaluable if you are developing malware on Windows
+ 
 
