@@ -337,5 +337,5 @@ https://redact.dev/						--> Mass delete all past messages per account on multip
 https://github.com/tokyoneon/Chimera				--> Obfuscate malicious powershell scripts to evade detection
 https://curl.se/windows/					--> Download link for cURL and OpenSSL libraries for Windows; Invaluable if you are developing malware on Windows
 https://gtfobins.github.io/					--> Detailed instructions for abusing any Linux binary to obtain shell/file system access and elevate privileges with SUID/Sudo
- 
+https://lolbas-project.github.io/#				--> Detailed instructions on how to abuse native binaries to obtain shell/file system access and implement MITRE attack techniques
 
