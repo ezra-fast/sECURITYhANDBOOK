@@ -338,4 +338,12 @@ https://github.com/tokyoneon/Chimera				--> Obfuscate malicious powershell scrip
 https://curl.se/windows/					--> Download link for cURL and OpenSSL libraries for Windows; Invaluable if you are developing malware on Windows
 https://gtfobins.github.io/					--> Detailed instructions for abusing any Linux binary to obtain shell/file system access and elevate privileges with SUID/Sudo
 https://lolbas-project.github.io/#				--> Detailed instructions on how to abuse native binaries to obtain shell/file system access and implement MITRE attack techniques
+https://book.hacktricks.xyz/generic-methodologies-and-resources/shells/full-ttys		--> Spawning full TTY shell once initial access is obtained
+https://github.com/pentestmonkey/php-reverse-shell		--> The only PHP shell needed during engagements
+https://crackstation.net/					--> Crack unsalted hashes online against large lookup tables; always try this before john, hydra, hashcat, etc.
+https://hashcat.net/wiki/doku.php?id=example_hashes		--> A table of hash types, examples, and their corresponding hash mode code needed to crack hashes with hashcat
+https://github.com/rebootuser/LinEnum				--> A Linux priv esc enumeration tool that serves as an alternative to LinPEAS.sh; useful for engagements where auto-exploitation is prohibited
+https://github.com/The-Z-Labs/linux-exploit-suggester		--> The Linux exploit suggester; run this script locally on a Linux victim to enumerate applicable local exploits
+https://github.com/DominicBreuker/pspy				--> Monitor Linux processes (and their UIDs) without root privilege; use to identify processes running as root with injectable command line arguments
+
 
