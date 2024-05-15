@@ -345,5 +345,8 @@ https://hashcat.net/wiki/doku.php?id=example_hashes		--> A table of hash types, 
 https://github.com/rebootuser/LinEnum				--> A Linux priv esc enumeration tool that serves as an alternative to LinPEAS.sh; useful for engagements where auto-exploitation is prohibited
 https://github.com/The-Z-Labs/linux-exploit-suggester		--> The Linux exploit suggester; run this script locally on a Linux victim to enumerate applicable local exploits
 https://github.com/DominicBreuker/pspy				--> Monitor Linux processes (and their UIDs) without root privilege; use to identify processes running as root with injectable command line arguments
+https://github.com/sushant747/security				--> Repository of manual security testing commands organized by category
+https://www.kali.org/tools/winexe/				--> With credentials, execute commands on remote Windows systems; Very useful for local interaction with services that have been port forwarded out
+https://github.com/jpillora/chisel				--> Client/Server tool to provide tunnels to services behind NAT/Firewall(s); Streams are secured with SSH
 
 
