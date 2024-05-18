@@ -348,5 +348,7 @@ https://github.com/DominicBreuker/pspy				--> Monitor Linux processes (and their
 https://github.com/sushant747/security				--> Repository of manual security testing commands organized by category
 https://www.kali.org/tools/winexe/				--> With credentials, execute commands on remote Windows systems; Very useful for local interaction with services that have been port forwarded out
 https://github.com/jpillora/chisel				--> Client/Server tool to provide tunnels to services behind NAT/Firewall(s); Streams are secured with SSH
+https://github.com/fortra/impacket				--> A collection of python classes for working with networking protocols; the home of psexec.py, smbexec.py, wmiexec.py, and others.
+https://github.com/byt3bl33d3r/pth-toolkit/tree/master		--> Pash the hash variants of common remote administration tools (wmiexec, psexec, winexe, rpcclient, etc.)
 
 
