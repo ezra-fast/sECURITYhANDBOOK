@@ -213,7 +213,7 @@ https://github.com/petikvx/LockBit-Black-Builder		--> LockBit Ransomware Builder
 https://github.com/petikvx/MSIL-Ransom				--> MSIL Ransomware Source
 https://github.com/petikvx?tab=repositories			--> Rich Offensive Repository; Malicious, Not Offensive Security
 https://github.com/defuse/flush-reload-attacks			--> Flush + Reload Side Channel Attack
-https://github.com/lgandx/Responder				--> Name Resolution Poisoning And Rogue Authentication Server Setup
+https://github.com/lgandx/Responder				--> Name Resolution Poisoning And Rogue Authentication Server Setup; invaluable for attacking AD and dumping hashes on the network
 https://github.com/iamcryptoki/snowden-archive			--> Comprehensive Repository Documenting The Extent Of Digital Surveillance
 https://grid.glendon.yorku.ca/exhibits/show/welcome-to-the-snowden-digital		--> Complete Snowden Digital Archive; Digital Surveillance Is Critical To Understand For Security Professionals
 https://github.com/Cyber-Anonymous/Dark-Phish			--> Sophisticate Phishing Campaigns; Designed For Use In Kali
@@ -350,5 +350,8 @@ https://www.kali.org/tools/winexe/				--> With credentials, execute commands on 
 https://github.com/jpillora/chisel				--> Client/Server tool to provide tunnels to services behind NAT/Firewall(s); Streams are secured with SSH
 https://github.com/fortra/impacket				--> A collection of python classes for working with networking protocols; the home of psexec.py, smbexec.py, wmiexec.py, and others.
 https://github.com/byt3bl33d3r/pth-toolkit/tree/master		--> Pash the hash variants of common remote administration tools (wmiexec, psexec, winexe, rpcclient, etc.)
+https://crack.sh/						--> Crack MD5 hash(es) online; the backend can exhaust the entire keyspace in approximately 26 hours
+https://github.com/dirkjanm/mitm6		--> Poison DHCPv6 requests and become the default (IPv6) DNS server; together with impacket-ntlmrelayx this can reliably dump and relay hashes
+https://github.com/blackploit/hash-identifier			--> Identify the type of unknown hashes at the command line
 
 
