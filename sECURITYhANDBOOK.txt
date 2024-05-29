@@ -353,5 +353,6 @@ https://github.com/byt3bl33d3r/pth-toolkit/tree/master		--> Pash the hash varian
 https://crack.sh/						--> Crack MD5 hash(es) online; the backend can exhaust the entire keyspace in approximately 26 hours
 https://github.com/dirkjanm/mitm6		--> Poison DHCPv6 requests and become the default (IPv6) DNS server; together with impacket-ntlmrelayx this can reliably dump and relay hashes
 https://github.com/blackploit/hash-identifier			--> Identify the type of unknown hashes at the command line
+https://github.com/sensepost/gowitness				--> Take screenshots of enumerated webpages for rapid analysis
 
 
