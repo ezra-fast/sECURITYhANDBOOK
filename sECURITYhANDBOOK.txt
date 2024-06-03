@@ -71,6 +71,7 @@ https://github.com/dana-at-cp/backdoor-apk			--> Backdoor Generation
 https://github.com/screetsec/TheFatRat				--> Backdoor Generation
 https://github.com/screetsec					--> Security Tool Repo
 https://www.cvedetails.com/					--> Searchable Database Of Vulnerabilities By Severity, Vendor, Category, etc.
+https://www.hackers-arise.com/					--> A good place to start or get pointed in the right direction for a given area of hacking/"security"
 https://github.com/trustedsec/social-engineer-toolkit		--> Invaluable Social Engineering/Payload Generation/Attack Framework Tool
 https://github.com/lanmaster53/recon-ng				--> CLI Reconnaisance Framework; Populate Tables Of Organization Information By Running Modules
 https://github.com/SySS-Research/Seth				--> Downgrade MitM Attack On RDP Connections To Obtain Cleartext Credentials (Particularly Effective On Stationary Pi)
