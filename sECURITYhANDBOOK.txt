@@ -356,5 +356,6 @@ https://github.com/blackploit/hash-identifier			--> Identify the type of unknown
 https://github.com/sensepost/gowitness				--> Take screenshots of enumerated webpages for rapid analysis
 https://github.com/haccer/subjack				--> Enumerate for hijackable subdomains at speed with a list of valid subdomains as input
 https://webhook.site/						--> Generate free webhooks, emailhooks, and DNShooks to monitor information that is sent to the given endpoint
+https://github.com/DanMcInerney/dnsspoof			--> Intercept DNS requests on the local network and poison them to point towards servers you control; invaluable mass compromise
 
 
