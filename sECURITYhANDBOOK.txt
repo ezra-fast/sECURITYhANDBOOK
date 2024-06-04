@@ -352,11 +352,11 @@ https://github.com/jpillora/chisel				--> Client/Server tool to provide tunnels 
 https://github.com/fortra/impacket				--> A collection of python classes for working with networking protocols; the home of psexec.py, smbexec.py, wmiexec.py, and others.
 https://github.com/byt3bl33d3r/pth-toolkit/tree/master		--> Pash the hash variants of common remote administration tools (wmiexec, psexec, winexe, rpcclient, etc.)
 https://crack.sh/						--> Crack MD5 hash(es) online; the backend can exhaust the entire keyspace in approximately 26 hours
-https://github.com/dirkjanm/mitm6		--> Poison DHCPv6 requests and become the default (IPv6) DNS server; together with impacket-ntlmrelayx this can reliably dump and relay hashes
+https://github.com/dirkjanm/mitm6				--> Poison DHCPv6 requests and become the default (IPv6) DNS server; together with impacket-ntlmrelayx this can reliably dump and relay hashes
 https://github.com/blackploit/hash-identifier			--> Identify the type of unknown hashes at the command line
 https://github.com/sensepost/gowitness				--> Take screenshots of enumerated webpages for rapid analysis
 https://github.com/haccer/subjack				--> Enumerate for hijackable subdomains at speed with a list of valid subdomains as input
 https://webhook.site/						--> Generate free webhooks, emailhooks, and DNShooks to monitor information that is sent to the given endpoint
 https://github.com/DanMcInerney/dnsspoof			--> Intercept DNS requests on the local network and poison them to point towards servers you control; invaluable mass compromise
-
+https://github.com/enjoiz/XXEinjector				--> A toolkit to automate the exploitation of XXE vulnerabilities; support for retrieving local files, listing directories, and uploading files when possible
 
