@@ -253,7 +253,7 @@ https://polyswarm.io/						--> Malware Intelligence; Similar To VirusTotal
 https://dnsdumpster.com/					--> DNS Related Intelligence (TXT Records, MX Records, A Records, etc.)
 https://otx.alienvault.com/					--> Enterprise Threat Intelligence Exchange
 https://grep.app/						--> Search Git Repositories By Regular Expression
-https://crt.sh/							--> Certificates And PKI Data For Domain, Organization, etc.
+https://crt.sh/							--> Certificates And PKI Data For Domain, Organization, etc. Very useful for identifying subdomains that wordlists will miss
 https://wigle.net/						--> Wireless Geographic Logging Engine (WiGLE); Collection Of Information About Global Wireless Technology
 https://publicwww.com/						--> Search The Source Code Of Open Software Based On Keyword Or Regular Expression
 https://intelx.io/						--> Leak Data From Various Sources; Searchable By Domain, URL, Email, CIDR, etc.
@@ -359,4 +359,8 @@ https://github.com/haccer/subjack				--> Enumerate for hijackable subdomains at 
 https://webhook.site/						--> Generate free webhooks, emailhooks, and DNShooks to monitor information that is sent to the given endpoint
 https://github.com/DanMcInerney/dnsspoof			--> Intercept DNS requests on the local network and poison them to point towards servers you control; invaluable mass compromise
 https://github.com/enjoiz/XXEinjector				--> A toolkit to automate the exploitation of XXE vulnerabilities; support for retrieving local files, listing directories, and uploading files when possible
+https://github.com/owasp-amass/amass				--> A one stop shop for enumerating the attack surface of web/external infrastructure; runtime is an issue but the results are comprehensive
+https://www.wappalyzer.com/					--> Fingerprinting the tech stack of target web applications; used as an extension on the browser
+https://www.kali.org/tools/dnsrecon/				--> Enumeration based on DNS records; check for zone transfers and enumerate subdomains/hosts/TXT records
+
 
