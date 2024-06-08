@@ -2,7 +2,6 @@ AUTHOR: Ezra Fast
 
 DESCRIPTION:
 	- This is a continuously updated list of forums and tools relevant to security professionals. They are listed in no particular order and keyword searching is encouraged.
-	- Listed herein are samples of malware including RATs, Rootkits, Bootkits, Stealers, Wipers, and indexes containing even more kinds of malicious code. 
 
 FORUMS:
 
@@ -45,7 +44,7 @@ https://exploitalert.com/browse-exploit.html			--> Basically A Large, Frequently
 http://www.routerpwn.com/Tools/					--> Large Collection Of Router/Network Equipment Oriented Exploits; This Is An Older Resource But Many Home Networking Appliances Are Never Updated
 https://www.seebug.org/vuldb/vulnerabilities			--> A Frequently Updated Collection Of Rather Sophisticated Exploits From Our Friends In The East!
 https://www.vulnerability-lab.com/				--> An Aging Collection Of (Mostly) Remotely Deployable Exploits; Not Very Well Maintained
-
+https://www.zerodium.com/					--> Where you go when you need a 0-day for a price; Make no mistake, this is illegal. Unless you are an ... "institutional client".
 
 FINDING VULNERABILITIES:
 
