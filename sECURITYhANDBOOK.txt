@@ -362,5 +362,6 @@ https://github.com/owasp-amass/amass				--> A one stop shop for enumerating the 
 https://www.wappalyzer.com/					--> Fingerprinting the tech stack of target web applications; used as an extension on the browser
 https://www.kali.org/tools/dnsrecon/				--> Enumeration based on DNS records; check for zone transfers and enumerate subdomains/hosts/TXT records
 https://www.dependencywalker.com/				--> Listing dependencies for Windows executables at runtime; 
+https://browserleaks.com/					--> A suite of online tools to verify the privacy/security of your browser; invaluable for your evaluating your web-related OPSEC posture
 
 
