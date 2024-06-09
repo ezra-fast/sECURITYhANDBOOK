@@ -88,7 +88,7 @@ https://www.kali.org/tools/hydra/				--> Parallelized Password Cracking
 https://www.kali.org/tools/kismet/				--> Complete Wireless Security Framework
 https://parrotsec.org/docs/tools/anonsurf/			--> Invaluable Anonymization Wrapper; This Alone Justifies Parrot's UI
 https://github.com/Und3rf10w/kali-anonsurf			--> AnonSurf Implementation For Kali
-https://www.vx-underground.org/					--> Foremost Malware Sample/Technique, And Security Research Website
+https://www.vx-underground.org/					--> Foremost Malware Samples/Techniques, And Security Research Website
 https://github.com/haad/proxychains				--> Anonymize Traffic Via Tor Or Other Proxy Servers; Process Specific; Very Useful
 https://github.com/rofl0r/proxychains-ng			--> New Generation Implementation Of Proxychains; More Arduous Configuration
 https://github.com/vxunderground/MalwareSourceCode		--> Malware Repository Connected To VX-Underground
@@ -361,5 +361,6 @@ https://github.com/enjoiz/XXEinjector				--> A toolkit to automate the exploitat
 https://github.com/owasp-amass/amass				--> A one stop shop for enumerating the attack surface of web/external infrastructure; runtime is an issue but the results are comprehensive
 https://www.wappalyzer.com/					--> Fingerprinting the tech stack of target web applications; used as an extension on the browser
 https://www.kali.org/tools/dnsrecon/				--> Enumeration based on DNS records; check for zone transfers and enumerate subdomains/hosts/TXT records
+https://www.dependencywalker.com/				--> Listing dependencies for Windows executables at runtime; 
 
 
