@@ -363,5 +363,8 @@ https://www.wappalyzer.com/					--> Fingerprinting the tech stack of target web 
 https://www.kali.org/tools/dnsrecon/				--> Enumeration based on DNS records; check for zone transfers and enumerate subdomains/hosts/TXT records
 https://www.dependencywalker.com/				--> Listing dependencies for Windows executables at runtime; 
 https://browserleaks.com/					--> A suite of online tools to verify the privacy/security of your browser; invaluable for your evaluating your web-related OPSEC posture
+https://www.revshells.com/					--> A simple online generator of reverse shells; particularly useful when rapidly developing implants
+https://securityheaders.com/					--> Take a peak at the security posture of a website/web application based on HTTP Response Headers
+https://www.ssllabs.com/ssltest/				--> Assess the TLS/SSL posture of a web endpoint
 
 
