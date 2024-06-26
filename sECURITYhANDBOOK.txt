@@ -366,5 +366,9 @@ https://browserleaks.com/					--> A suite of online tools to verify the privacy/
 https://www.revshells.com/					--> A simple online generator of reverse shells; particularly useful when rapidly developing implants
 https://securityheaders.com/					--> Take a peak at the security posture of a website/web application based on HTTP Response Headers
 https://www.ssllabs.com/ssltest/				--> Assess the TLS/SSL posture of a web endpoint
+https://jscompress.com/						--> Minify JS on the fly; very useful when constructing more complex XSS payloads
+https://github.com/fuzzdb-project/fuzzdb			--> A useful repository containing lists and other information used to fuzz applications for faults;
+https://github.com/besimorhino/powercat				--> A PowerShell version of netcat; very useful for staying in memory during Windows engagements with IEX
+
 
 
