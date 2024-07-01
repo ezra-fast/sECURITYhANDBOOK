@@ -369,6 +369,6 @@ https://www.ssllabs.com/ssltest/				--> Assess the TLS/SSL posture of a web endp
 https://jscompress.com/						--> Minify JS on the fly; very useful when constructing more complex XSS payloads
 https://github.com/fuzzdb-project/fuzzdb			--> A useful repository containing lists and other information used to fuzz applications for faults;
 https://github.com/besimorhino/powercat				--> A PowerShell version of netcat; very useful for staying in memory during Windows engagements with IEX
-
+https://github.com/mar10/wsgidav				--> A WebDAV server that can be spun up rapidly in support of client-side/social engineering related tasks involved library files and .lnk shortcuts
 
 
